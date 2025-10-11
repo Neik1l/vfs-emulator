@@ -1,0 +1,11 @@
+# full test
+ls
+cd /a/b/c
+ls
+cat file.txt
+chown /a/b/c/file.txt alice
+ls
+rmdir /a/b  # expected to fail if not empty
+unknowncmd
+ls too many args here
+exit now

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run stage3",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/stages/stage3_vfs.py",
+      "console": "integratedTerminal",
+      "args": ["--vfs", "${workspaceFolder}/vfs_examples/deep_nested.csv", "--script", "${workspaceFolder}/scripts/start_full_test.txt"]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# simple start example
+ls
+cd / ; ls

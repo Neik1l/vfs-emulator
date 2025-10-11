@@ -1,0 +1,7 @@
+path,type,content,owner
+/,dir,,
+/file1.txt,file,This is file1,userA
+/docs,dir,,
+/docs/readme.md,file,Readme for docs,userB
+/logs,dir,,
+/logs/app.log,file,b64:VGhpcyBpcyBpbmZvcm1hdGlvbiE=,logger

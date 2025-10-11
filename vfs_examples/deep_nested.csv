@@ -1,0 +1,9 @@
+path,type,content,owner
+/,dir,,
+/a,dir,,
+/a/b,dir,,
+/a/b/c,dir,,
+/a/b/c/file.txt,file,Deep file content,deepuser
+/a/b/c/d,dir,,
+/a/b/c/d/e,dir,,
+/a/b/c/d/e/readme.txt,file,Level 5 file,owner5
